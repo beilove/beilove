@@ -32,17 +32,11 @@ Telegram: @annonyviet.
 <div>
 <h2 align="center">Thank you for reading </h2>
 <div>
-<img src="https://raw.githubusercontent.com/huy232/huy232/main/image/2.gif" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beilove&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beilove&layout=compact&exclude_repo=beilove.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
   </div>
 <br> 
 </div> 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beilove&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-  <img src="[https://github-readme-stats.vercel.app/api?username=beilove&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515](https://github-readme-stats.vercel.app/api/top-langs/?username=beilove&layout=compact&exclude_repo=beilove.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)" />
-</div>
-
-
 <br>
 <div>
 <h2 align="center">View counter 👀</h2>
