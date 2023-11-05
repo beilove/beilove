@@ -30,7 +30,7 @@ Telegram: @annonyviet.
 ```
 <br>
 <div>
-<h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+<h2 align="center">Thank you for reading </h2>
 <div>
 <img src="https://raw.githubusercontent.com/huy232/huy232/main/image/2.gif" align="center" />
   </div>
