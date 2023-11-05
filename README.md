@@ -1,4 +1,4 @@
-<h1 align="center">Hi there I'm beilove <img src="https://img.bvipc.com/file/533a2f4c15815d82eb1b2.gif" width="35px" height="35px"></h1>
+<h1 align="center">Hi there I'm beilove </h1>
 
 <body>
 <br>
