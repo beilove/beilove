@@ -36,7 +36,8 @@ Telegram: @annonyviet.
   </div>
 <br> 
 </div>  
-
+<div align="center">
+<img src="[https://moe-counter.glitch.me/get/@YT-Advanced?theme=gelbooru](https://github-readme-stats.vercel.app/api?username=beilove&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)" /></div>
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=beilove&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beilove&layout=compact&exclude_repo=beilove.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
